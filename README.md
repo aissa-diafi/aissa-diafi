@@ -1,0 +1,8 @@
+- 👋 Hi, I’m @aissa-diafi
+- 👀 I’m interested in software engineering, pruduct management, and Agile software project management with Scrum.
+- 🌱 I’m currently learning ReactJS and its ecosystem
+- 💞️ I’m looking to collaborate on tech startups
+- 📫 How to reach me:
+  -  diafiaissa@gmail.com
+  -  linkedin.com/in/aissa-diafi
+  -  twitter.com/aissa_diafi
