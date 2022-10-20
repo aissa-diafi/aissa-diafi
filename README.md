@@ -3,9 +3,8 @@
 - 🌱 I’m currently learning ReactJS and its ecosystem
 - 💞️ I’m looking to collaborate on tech startups
 - 📫 How to reach me:
-  -  📧 diafiaissa@gmail.com
+  - 📧 diafiaissa@gmail.com
   - LinkedIn: [aissa-diafi](https://www.linkedin.com/in/aissa-diafi/)
-  - Phone: +213540831839
   - WhatsApp: [+213540831839](https://wa.me/+213540831839)
   - Telegram: [@iam_aissa](https://t.me/iam_aissa)
   - Twitter: [@aissa_diafi](https://twitter.com/aissa_diafi)
